@@ -1,6 +1,6 @@
 # S-993a desoldering gun control board
 Reverse engineering of S-993a/S-995a/S-998p solder sucker control board
-<img src="photos/S-993A.jpg" height="450px"> <img src="photos/S-993A-circuit-board.jpg" height="400px">
+<img src="photos/S-993A.jpg" height="450px"> <img src="photos/S-993A-circuit-board.jpg" width="400px">
 
 Control board schematics (made in kicad) of well known S-993a desoldering gun. This board is also used in S-995a, S-998p products.
 
