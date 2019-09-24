@@ -7,6 +7,8 @@ The board has label "HHCP_J/S-998P.BDAGCCI.V3.1"
 
 Some boards are not populated with most of the motor control components and have only rectifier and D5 diode. Information provided by [Randys Dan](https://www.youtube.com/channel/UCstega9e7F3fUxEAxG64gzQ).
 
+Please feel free to post an issue in case of any mistakes in schematic.
+
 ### Schematics ###
 ![](photos/schematics.png)
 
