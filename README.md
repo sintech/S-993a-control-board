@@ -12,7 +12,14 @@ Please feel free to post an issue in case of any mistakes in schematic.
 ### Schematics ###
 ![](photos/schematics.png)
 
+### Measurements
+
+RT (thermocouple) voltage - ~0.15 mV at 24°C and rising to 1 mV range with heating.
+
+RL (heater) resistance - ~524 Ohm
+
 ### Board photos ###
+
 <img src="photos/board_top.JPG" height="315px"> <img src="photos/board_top2.JPG" height="317px"> <img src="photos/board_bottom.JPG" height="315px">
 
 R8 value could be 1.2k or 12k if you read bands in reverse direction.
